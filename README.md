@@ -1,21 +1,28 @@
+## Donation
+
+Support this project by helping keep the servers up
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T3124BZN)
+
 ## Guide
 
 just paste this into your anime repo 
 ```
-https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json
+https://kohiden.xyz/Kohi-den/extensions/raw/branch/main/index.min.json
 ```
+If your interested in installing just the apks they can be found [Here](https://kohiden.xyz/Kohi-den/extensions/src/branch/main/apk)
 
 ## Support Server
 
 Join the [Discord](https://discord.gg/vut4mmXQzU) for updates and announcements
 
-and please check the discord BEFORE making an issue
+and please check the discord BEFORE making an issue 
 
 ## Contributing
 
-[Source code](https://github.com/Kohi-den/extensions-source) and [Template](https://github.com/aniyomiorg/aniyomi-extensions/blob/master/CONTRIBUTING.md)
+[Template](https://github.com/aniyomiorg/aniyomi-extensions/blob/master/CONTRIBUTING.md)
 
-If you want to report issues, report them [here](https://github.com/Kohi-den/extensions-source/issues/new/choose)
+If you want to report issues, report them [here](https://kohiden.xyz/Kohi-den/extensions-source/issues/new/choose)
 
 ## Disclaimer
 
