@@ -1204,6 +1204,26 @@
     ]
   },
   {
+    "name": "Aniyomi: AniWatchtv",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwatch",
+    "apk": "aniyomi-en.aniwatch-v14.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "14.7",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AniWatchtv",
+        "lang": "en",
+        "id": "8051984946387208343",
+        "baseUrl": "https://aniwatchtv.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AsiaFlix",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.asiaflix",
     "apk": "aniyomi-en.asiaflix-v14.18.apk",
@@ -1866,10 +1886,10 @@
   {
     "name": "Aniyomi: HiAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.zoro",
-    "apk": "aniyomi-en.zoro-v14.57.apk",
+    "apk": "aniyomi-en.zoro-v14.58.apk",
     "lang": "en",
-    "code": 57,
-    "version": "14.57",
+    "code": 58,
+    "version": "14.58",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
