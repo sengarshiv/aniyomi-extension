@@ -3034,10 +3034,10 @@
   {
     "name": "Aniyomi: Anime-Sama",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.animesama",
-    "apk": "aniyomi-fr.animesama-v14.12.apk",
+    "apk": "aniyomi-fr.animesama-v14.13.apk",
     "lang": "fr",
-    "code": 12,
-    "version": "14.12",
+    "code": 13,
+    "version": "14.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3614,10 +3614,10 @@
   {
     "name": "Aniyomi: StreamingCommunity",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.streamingcommunity",
-    "apk": "aniyomi-it.streamingcommunity-v14.6.apk",
+    "apk": "aniyomi-it.streamingcommunity-v14.7.apk",
     "lang": "it",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3626,7 +3626,7 @@
         "name": "StreamingCommunity",
         "lang": "it",
         "id": "8092251957420885335",
-        "baseUrl": "https://streamingcommunity.spa",
+        "baseUrl": "https://streamingcommunity.ovh",
         "versionId": 1
       }
     ]
@@ -4581,10 +4581,10 @@
   {
     "name": "Aniyomi: Hanime1",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.hanime1",
-    "apk": "aniyomi-zh.hanime1-v14.4.apk",
+    "apk": "aniyomi-zh.hanime1-v14.5.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4641,10 +4641,10 @@
   {
     "name": "Aniyomi: Xfani",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.xfani",
-    "apk": "aniyomi-zh.xfani-v14.5.apk",
+    "apk": "aniyomi-zh.xfani-v14.6.apk",
     "lang": "zh",
-    "code": 5,
-    "version": "14.5",
+    "code": 6,
+    "version": "14.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4653,7 +4653,7 @@
         "name": "稀饭动漫",
         "lang": "zh",
         "id": "8868273686324481907",
-        "baseUrl": "https://dick.xfani.com",
+        "baseUrl": "https://dm.xifanacg.com",
         "versionId": 1
       }
     ]
