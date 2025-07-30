@@ -1778,7 +1778,7 @@
         "name": "SuperStream",
         "lang": "en",
         "id": "4654371105831183338",
-        "baseUrl": "https://showbox.shegu.net/api/api_client/index/",
+        "baseUrl": "https://mbpapi.shegu.net/api/api_client/index/",
         "versionId": 1
       }
     ]
